@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{ 
-    background-image: url("amazon.png");
+    background-image: url("assests/amazon.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -133,7 +133,7 @@ span{
 }
 /**hero section**/
 .hero-section{
-    background-image: url("homemain.jpg");
+    background-image: url("assests/homemain.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -178,16 +178,16 @@ span{
     margin-bottom: 1rem;
 }
 .pic1{
-    background-image: url(box1.jpg);
+    background-image: url(assests/box1.jpg);
 }
 .pic2{
-    background-image: url(box2.jpg);
+    background-image: url(assests/box2.jpg);
 }
 .pic3{
-    background-image: url(box3.jpg);
+    background-image: url(assests/box3.jpg);
 }
 .pic4{
-    background-image: url(box4.jpg);
+    background-image: url(assests/box4.jpg);
 }
 .shop-section{
     display: flex;
@@ -242,7 +242,7 @@ ul{
     padding: 10px 32px 10px 32px;
 }
 .logo{
-    background-image: url("amazon.png");
+    background-image: url("assests/amazon.png");
     background-size: cover;
     height: 50px;
     width: 100px;
